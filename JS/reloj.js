@@ -45,4 +45,6 @@ export function alarma(sonido, btnPlay, btnStop)
 
         }
     })
+
+    
 }
